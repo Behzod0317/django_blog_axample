@@ -12,6 +12,3 @@ migrate:
 
 run:
 	python3 manage.py runserver
-
-statapp:
-	python3 manage.py startapp app.name
